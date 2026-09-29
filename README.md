@@ -43,7 +43,8 @@ This project is an interactive Adidas Sales Analysis Dashboard developed using P
 
 🖼️ Dashboard Preview
 
-"Adidas Sales Analysis Dashboard" (Adidas_Sales_Dashboard.png)
+
+![Adidas Sales Analysis Dashboard](Adidas_Sales_Dashboard.png)
 
 📁 Project Files
 
