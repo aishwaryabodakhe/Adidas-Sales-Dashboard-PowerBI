@@ -39,7 +39,7 @@ This project is an interactive Adidas Sales Analysis Dashboard developed using P
 - Microsoft Power BI
 - DAX
 - Power Query
-- Excel / CSV
+- Excel 
 
 🖼️ Dashboard Preview
 
